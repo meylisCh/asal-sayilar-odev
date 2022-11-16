@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\bin\Debug\AsalSayıProje.exe.config
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\bin\Debug\AsalSayıProje.exe
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\bin\Debug\AsalSayıProje.pdb
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\obj\Debug\AsalSayıProje.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\obj\Debug\AsalSayıProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\obj\Debug\AsalSayıProje.Form1.resources
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\obj\Debug\AsalSayıProje.Properties.Resources.resources
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\obj\Debug\AsalSayıProje.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\obj\Debug\AsalSayıProje.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\obj\Debug\AsalSayıProje.exe
+C:\Users\acer\Desktop\visual studio project\AsalSayıProje\obj\Debug\AsalSayıProje.pdb
